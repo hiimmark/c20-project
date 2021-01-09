@@ -4,7 +4,7 @@ function preload() {
     //load the images here
     jimage = loadImage("jerryOne.png")
     jani = loadAnimation("jerryTwo.png","jerryThree.png")
-    jlast = loadAnimation("JerryFour.png")
+    jlast = loadAnimation("jerryFour.png")
     timage = loadImage("tomOne.png")
     tani = loadAnimation("tomTwo.png","tomThree.png")
     tlast = loadAnimation("tomFour.png")
